@@ -30,6 +30,7 @@ dist/
 # IDE
 .idea/
 .vscode/
+.env
 *.sublime-project
 *.sublime-workspace
 *.suo
