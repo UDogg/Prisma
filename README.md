@@ -1,3 +1,5 @@
-# Awesome Links - part-1
+# Full Stack web app to understand Prisma
+I recently watched a video from Vercel which says that Next.js and Prisma make frontend developers full stack and 
+being a full-stack developer has been my lifelong goal, hence this project.
 
-This branch has the same starting point as [this article](https://prisma.io/blog/fullstack-nextjs-graphql-prisma-oklidw1rhw)
+**The stack used in this video is Next.js, TypeScript, Prisma, PostgreSQL, and GraphQL(a Meta database): Data Modeling**
